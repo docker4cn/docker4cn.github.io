@@ -26,7 +26,7 @@
 目前计划中，有以下镜像及版本：
 
 - 系统类
-    - [x] [debian](https://hub.docker.com/r/docker4cn/debian)
+    - [x] [debian](/debian/)
         - [x] buster
         - [x] stretch
     - [ ] alpine
