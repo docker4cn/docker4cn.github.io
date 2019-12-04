@@ -39,7 +39,11 @@
 - 工具类
     - [ ] nginx
     - [ ] postgres
-    - [ ] jenkins
+
+## Roadmap
+
+第一阶段计划，为Docker常用的两个发行版，Debian与Alpine的主要版本提供预定定制功能。
+详见：[Initialization](https://github.com/orgs/docker4cn/projects/1)
 
 ## 其它
 
