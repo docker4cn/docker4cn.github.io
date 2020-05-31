@@ -33,6 +33,9 @@
         - [x] buster
         - [x] stretch
     - [x] [alpine]
+        - [x] 3.12
+        - [x] 3.11
+        - [x] 3.10
     - [ ] [ubuntu]
     - [ ] [centos]
 - 语言类
