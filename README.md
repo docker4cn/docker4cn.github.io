@@ -33,20 +33,27 @@
         - [x] buster
         - [x] stretch
     - [x] [alpine]
-    - [ ] ubuntu
-    - [ ] centos
+    - [ ] [ubuntu]
+    - [ ] [centos]
 - 语言类
-    - [ ] python
-    - [ ] node
+    - [ ] [python]
+    - [ ] [node]
     - [ ] java
 - 工具类
-    - [ ] nginx
+    - [ ] [nginx]
+    - [ ] [jenkins]
 
 镜像命名方式，统一为`docker4cn/<名称>:<版本>-<类型>`。
 比如，`docker4cn/debian:buster-ustc`、`docker4cn/alpine:3.12-tuna`等。
 
 [debian]:/debian/
 [alpine]:/alpine/
+[ubuntu]:/ubuntu/
+[centos]:/centos/
+[python]:/python/
+[node]:/node/
+[nginx]:/nginx/
+[jenkins]:/jenkins/
 
 ## 设计
 
